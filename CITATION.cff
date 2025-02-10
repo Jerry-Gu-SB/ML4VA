@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Machine Learning for Virginia: Using Machine Learning to
+  Predict Standardized Testing Scores
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jerry
+    family-names: Gu
+    email: ncq9fn@virginia.edu
+    affiliation: University of Virginia
+  - given-names: Rithwik
+    family-names: Raman
+    email: xak7jw@virginia.edu
+    affiliation: University of Virginia
+  - given-names: Tara
+    family-names: Morin
+    email: tmn7vs@virginia.edu
+    affiliation: University of Virginia
+repository-code: 'https://github.com/Jerry-Gu-SB/ML4VA'
+url: 'https://nrichnguyen.wixsite.com/ml4va'
